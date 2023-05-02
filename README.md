@@ -1,4 +1,4 @@
-# KernelSU Action
+# Kernel Action
 
 Action for Non-GKI Kernel, with certain universality, requires understanding of kernel and Android related knowledge to apply.
 
