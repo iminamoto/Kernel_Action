@@ -125,7 +125,7 @@ Setting it to true will compile boot.img. You need to provide `Source boot image
 
 As the name suggests, provide a boot image that can boot the source system normally. It needs a direct link, preferably built from the same kernel source code and device tree as your current system from AOSP. The ramdisk contains partition tables and init. If not, the built image will not be able to boot normally.
 
-For example: https://raw.githubusercontent.com/iminamoto/Kernel_Action/master/boot/boot.img
+For example: https://github.com/iminamoto/Kernel_Action/raw/master/boot/boot.img
 
 ## Thanks
 
